@@ -28,16 +28,16 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
+contract SimpleStorage {
+    uint storedData; // State variable
+    //…
 }
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+The book is for developers, analysts, or anyone looking to learn about Blockchain in a quick and easy manner.	
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-7).
 
 ### Software and Hardware List
 
