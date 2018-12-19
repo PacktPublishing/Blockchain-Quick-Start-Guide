@@ -1,6 +1,6 @@
-# # Blockchain Quick Start Guide
+# Blockchain Quick Start Guide
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Blockchain Quick Start Guide" height="256px" align="right"></a>
 
 This is the code repository for [Blockchain Quick Start Guide](Packt UTM URL of the Book), published by Packt.
 
@@ -9,14 +9,15 @@ This is the code repository for [Blockchain Quick Start Guide](Packt UTM URL of 
 ## What is this book about?
 First Paragraph from the Long Description
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+This book covers the following exciting features:
+* Understand the working of Blockchain hashing 
+* Write and test a smart contract using Solidity
+* Develop and test a decentralized application
+* Build and test your application using Hyperledger Fabric
+* Implement business network using Hyperledger Composer 
+* Test and interact with business network applications
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789807972) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
