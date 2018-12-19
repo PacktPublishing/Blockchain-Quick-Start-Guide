@@ -52,7 +52,7 @@ With the following software and hardware list you can run all code files present
 ### Related products
 * Blockchain By Example [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-example?utm_source=github&utm_medium=repository&utm_campaign=9781788475686) [[Amazon]](https://www.amazon.com/dp/1788475682)
 
-* Blockchain for Enterprise [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-enterprise?utm_source=github&utm_medium=repository&utm_campaign=9781788479745) [[Amazon]](https://www.amazon.com/dp/B07BJLBB4)
+* Blockchain for Enterprise [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-enterprise?utm_source=github&utm_medium=repository&utm_campaign=9781788479745) [[Amazon]](https://www.amazon.com/dp/B07BJLBB4J)
 
 ## Get to Know the Author(s)
 **Author Name**
