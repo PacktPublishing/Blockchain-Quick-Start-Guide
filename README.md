@@ -47,18 +47,11 @@ With the following software and hardware list you can run all code files present
 | 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
 
-## Code in Action
+### Related products
+* Blockchain By Example [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/blockchain-example?utm_source=github&utm_medium=repository&utm_campaign=9781788475686) [[Amazon]](https://www.amazon.com/dp/1788475682)
 
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
-
-### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
-
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Blockchain for Enterprise [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-enterprise?utm_source=github&utm_medium=repository&utm_campaign=9781788479745) [[Amazon]](https://www.amazon.com/dp/B07BJLBB4)
 
 ## Get to Know the Author(s)
 **Author Name**
@@ -69,8 +62,8 @@ Bio
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Blockchain By Example](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-example?utm_source=github&utm_medium=repository&utm_campaign=9781788475686)
+* [Seven NoSQL Databases in a Week](https://www.packtpub.com/big-data-and-business-intelligence/seven-nosql-databases-week?utm_source=github&utm_medium=repository&utm_campaign=9781787288867)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
