@@ -55,10 +55,10 @@ With the following software and hardware list you can run all code files present
 * Blockchain for Enterprise [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-enterprise?utm_source=github&utm_medium=repository&utm_campaign=9781788479745) [[Amazon]](https://www.amazon.com/dp/B07BJLBB4J)
 
 ## Get to Know the Author(s)
-**Author Name**
+**Xun (Brian) Wu**
 Bio
 
-**Author Name**
+**Weimin Sun**
 Bio
 
 
