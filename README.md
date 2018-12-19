@@ -4,7 +4,7 @@
 
 This is the code repository for [Blockchain Quick Start Guide](Packt UTM URL of the Book), published by Packt.
 
-**A beginner's guide to developing enterprise-grade decentralized applications	**
+**A beginner's guide to developing enterprise-grade decentralized applications**
 
 ## What is this book about?
 First Paragraph from the Long Description
