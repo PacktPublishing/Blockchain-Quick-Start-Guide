@@ -55,11 +55,13 @@ With the following software and hardware list you can run all code files present
 * Blockchain for Enterprise [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-enterprise?utm_source=github&utm_medium=repository&utm_campaign=9781788479745) [[Amazon]](https://www.amazon.com/dp/B07BJLBB4J)
 
 ## Get to Know the Author(s)
+
 **Xun (Brian) Wu**
-Bio
+Xun (Brian) Wu is an author, founder, and advisor. He has over 17 years of extensive hands-on experience in the design and development of blockchain, big data, cloud, UI, and system infrastructure. He has worked for top investment banks including JP. Morgan, Citigroup, and the Bank of America. He is the co-author of Seven NoSQL Databases in a Week, Hyperledger Cookbook, and Blockchain By Example, published by Packt. He has been a technical reviewer for more than 50 computer technical books for Packt Publishing. He serves as a board advisor for several blockchain start-ups. He owns several patents on blockchain. Brian holds a master's degree in computer science from NJIT. He lives in New Jersey with his two beautiful daughters, Bridget and Charlotte.
 
 **Weimin Sun**
-Bio
+Weimin Sun has 20 years of experience of working in the financial industry. He has worked for top-tier investment and commercial banks such as J.P. Morgan, Bank of America, Citibank, and Morgan Stanley. He has managed large teams developing IT applications. He has held corporate titles such as Executive Director and Senior VP. He has in-depth knowledge of blockchain technology, data architecture, data modeling, data science, and big data platforms. He is an expert in designing data-driven solutions. He has a Ph.D, an M.B.A, and an M.Sc. He has published several papers on statistics in renowned academic journals. Weimin lives in New Jersey, USA, with his beautiful wife and his talented son.
+
 
 
 ## Other books by the authors
