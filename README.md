@@ -1,8 +1,8 @@
 # Blockchain Quick Start Guide
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Blockchain Quick Start Guide" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/blockchain-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789807974"><img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781789807974_cover.png" alt="Blockchain Quick Start Guide" height="256px" align="right"></a>
 
-This is the code repository for [Blockchain Quick Start Guide](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Blockchain Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/blockchain-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789807974), published by Packt.
 
 **A beginner's guide to developing enterprise-grade decentralized applications**
 
